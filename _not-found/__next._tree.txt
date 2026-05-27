@@ -1,0 +1,2 @@
+:HL["/haclab-horizon-garage-yyc/_next/static/chunks/0zt9boi19~fcs.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LCjdl89_ZCcsb4tZ5Os7h"}
